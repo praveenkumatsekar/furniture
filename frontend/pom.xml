@@ -21,6 +21,14 @@
     <artifactId>spring-webmvc</artifactId>
     <version>4.3.14.RELEASE</version>
 </dependency>
+
+ <!--JSTL -->
+   <!-- https://mvnrepository.com/artifact/org.springframework/spring-webmvc -->
+<dependency>
+    <groupId>jstl</groupId>
+    <artifactId>jstl</artifactId>
+    <version>1.2</version>
+</dependency>
    
   </dependencies>
   <build>
